@@ -1,5 +1,11 @@
 # shadcn
 
+## 4.21.1
+
+### Patch Changes
+
+- [#12061](https://github.com/shadcn-ui/ui/pull/12061) [`a9c1da49ec4eab488dc99c69ae20a7ffaa4897d4`](https://github.com/shadcn-ui/ui/commit/a9c1da49ec4eab488dc99c69ae20a7ffaa4897d4) Thanks [@shadcn](https://github.com/shadcn)! - fix shimmer reduced motion handling when used with a variant
+
 ## 4.21.0
 
 ### Minor Changes
